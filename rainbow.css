@@ -1,0 +1,30 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+td{
+    height: 50px;
+    width: 50px;
+    border: 6px solid;
+}
+#one{
+    background-color: violet;
+}
+#two{
+    background-color: indigo;
+}
+#three{
+    background-color: blue;
+}
+#four{
+    background-color: green;
+}
+#five{
+    background-color: black;
+}
+#six{
+    background-color: yellow;
+}
+#seven{
+    background-color: red;
+}
