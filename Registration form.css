@@ -1,0 +1,17 @@
+h1{
+    background-color:rgb(42, 193, 123);
+    font-family: Center;
+    width: 200px;
+    
+}
+body{
+    background-color: gray;
+}
+.A{
+    width: 500px;
+    height: 22px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 14pxx;
+    border: 1.5px solid black;
+}
